@@ -33,7 +33,7 @@ As such:
 Muhammed-Fatih Kaya XXXX, University of Hohenheim, Germany
 
 Cite as:\
-*Implementation guide for Clustering and Classification by Muhammed-Fatih Kaya, licensed under
+*Implementation Guide for Clustering and Classification tasks by Muhammed-Fatih Kaya, licensed under
 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt),
 via https://github.com/AI-for-Business/Decision-Tree-Teaching-Assistant*
 
