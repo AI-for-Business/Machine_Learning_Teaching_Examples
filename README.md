@@ -40,7 +40,7 @@ Cite as:\
 via https://github.com/AI-for-Business/Decision-Tree-Teaching-Assistant*
 
 # DOI - Code
-XXXXX
+[![DOI](https://zenodo.org/badge/770926920.svg)](https://zenodo.org/doi/10.5281/zenodo.10836075)
 
 # Contact / About us
 * You can find all of our repositories [here](https://github.com/orgs/AI-for-Business/repositories).
