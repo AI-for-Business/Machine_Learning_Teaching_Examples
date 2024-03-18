@@ -16,7 +16,7 @@ This program has been written in Python by using Jupyter Notebook. Please downlo
 # Copyright / License
 This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY-NC-SA 4.0).
 
-[integrate pic]
+![](CC-BY-NC-SA.jpg)
  
 As such:
 
